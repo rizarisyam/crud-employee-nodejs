@@ -1,0 +1,8 @@
+{
+  "name": "crud-employee-nodejs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/rizarisyam/crud-employee-nodejs.git",
+  "author": "rizarisyam <risyam23riza@gmail.com>",
+  "license": "MIT"
+}
